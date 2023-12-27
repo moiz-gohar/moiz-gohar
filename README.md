@@ -1,6 +1,13 @@
 <h1 align="center">Hello there, I'm Moiz an AI, Web and Design enthusiast who turns ideas into reality using code!</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moiz-gohar" alt="moiz-gohar" /></a> </p>
 
+
+<p>🚀 As a recent AI graduate based in Islamabad, Pakistan 🇵🇰, I'm fueled by a fervor for becoming a seasoned ML Engineer with a profound affinity for Machine Learning, Deep Learning, and Computer Vision.</p>
+<p>🛠️ Currently, my focal point extends beyond model development to the orchestration and optimization of Machine Learning Operations (MLOps). Leveraging tools such as Airflow, MLflow, DVC, Jenkins, and others, I'm committed to enhancing not just the deployment of machine learning models but also refining the entire process</p>
+<p>🌐 Expanding my horizons, I've ventured into the dynamic realms of web development and graphic/UI designing. This multifaceted exploration allows me to blend creativity with technical prowess, creating a seamless fusion of design aesthetics and functional user experiences.</p>
+<p>💡 Embracing the synthesis of diverse skills, I am poised to contribute to the ever-evolving landscape of technology, driven by a relentless passion for innovation and a commitment to continuous learning.</p>
+
+
 - 💬 Ask me about **ML, CV, Web, Graphic Designing**
 
 - 📫 How to reach me **muhammadmoizgohar@gmail.com**
