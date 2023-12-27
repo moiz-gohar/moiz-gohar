@@ -1,6 +1,4 @@
 <h1 align="center">Hello there, I'm Moiz an AI, Web and Design enthusiast who turns ideas into reality using code!</h1>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moiz-gohar" alt="moiz-gohar" /></a> </p>
- -->
 
 <p>🚀 As a recent AI graduate based in Islamabad, Pakistan 🇵🇰, I'm fueled by a fervor for becoming a seasoned ML Engineer with a profound affinity for Machine Learning, Deep Learning, and Computer Vision.</p>
 <p>🛠️ Currently, my focal point extends beyond model development to the orchestration and optimization of Machine Learning Operations (MLOps). Leveraging tools such as Airflow, MLflow, DVC, Jenkins, and others, I'm committed to enhancing not just the deployment of machine learning models but also refining the entire process</p>
@@ -9,13 +7,12 @@
 
 
 - 💬 Ask me about **ML, CV, Web, Graphic Designing**
-
 - 📫 How to reach me **muhammadmoizgohar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/moiz gohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moiz gohar" height="30" width="40" /></a>
-<a href="https://fb.com/moiz gohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moiz gohar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/moiz-gohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moiz-gohar" height="30" width="40" /></a>
+<a href="https://fb.com/moizgohar6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moizgohar6" height="30" width="40" /></a>
 <a href="https://instagram.com/moiz_gohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moiz_gohar" height="30" width="40" /></a>
 </p>
 
