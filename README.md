@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Moiz an AI, Web and Design enthusiast who turns ideas into reality using code!</h1>
+<h1 align="left">Hello there, I'm Moiz an AI, Web and Design enthusiast who turns ideas into reality using code!</h1>
 
 <p>🚀 As a recent AI graduate based in Islamabad, Pakistan 🇵🇰, I'm fueled by a fervor for becoming a seasoned ML Engineer with a profound affinity for Machine Learning, Deep Learning, and Computer Vision.</p>
 <p>🛠️ Currently, my focal point extends beyond model development to the orchestration and optimization of Machine Learning Operations (MLOps). Leveraging tools such as Airflow, MLflow, DVC, Jenkins, and others, I'm committed to enhancing not just the deployment of machine learning models but also refining the entire process</p>
