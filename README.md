@@ -8,7 +8,7 @@
 
 ## I build and operate AI products and software systems.
 
-I'm **Muhammad Moiz Gohar**, COO at **[GalvanAI](https://www.galvanai.com/)**.
+I'm **Muhammad Moiz Gohar**, Co-founder at **[GalvanAI](https://www.galvanai.com/)**.
 
 My work sits between **product, engineering, operations, and AI** - taking ideas from early discovery and architecture to production, delivery, and scale. I still like being close to the technical work, but my focus today is broader: building the systems, teams, processes, and products that make good engineering repeatable.
 
@@ -120,7 +120,7 @@ I prefer useful systems over impressive prototypes and simple architecture over 
 
 ## Currently
 
-**COO @ [GalvanAI](https://www.galvanai.com/)**
+**Co-founder @ [GalvanAI](https://www.galvanai.com/)**
 
 Building and operating across AI products, automation, software delivery, infrastructure, and the teams behind them.
 
