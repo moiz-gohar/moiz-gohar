@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ascii-shader.gif" width="100%" alt="Animated ASCII shader — Muhammad Moiz Gohar" />
+<img src="ascii-shader.gif" width="100%" alt="Animated ASCII shader — Muhammad Moiz Gohar" />
 
 </div>
 
